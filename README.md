@@ -32,6 +32,19 @@ to download wlogout do yay -S wlogout
 
 please remember this is the first build of the dotfiles
 
+KEYBINDS
+bind = $mainMod, return, exec, $terminal
+bind = $mainMod, Q, killactive,
+bind = $mainMod, M, exec, wlogout
+bind = $mainMod, E, exec, $fileManager
+bind = $mainMod, V, togglefloating,
+bind = $mainMod, G, exec, $menu
+bind = $mainMod, P, pseudo, # dwindle
+bind = $mainMod, J, togglesplit, # dwindle
+bind = $mainMod, F, fullscreen
+
+main=super
+
 
 
 
