@@ -30,6 +30,8 @@ dolphin
 
 to download wlogout do yay -S wlogout
 
+please remember this is the first build of the dotfiles
+
 
 
 
