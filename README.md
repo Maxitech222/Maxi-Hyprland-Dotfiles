@@ -1,9 +1,17 @@
 # Maxi-Hyprland-Dotfiles
 
-01/05/2026 
+Made by Maxi
 
-MADE BY MAXI
+download all these packages 
+waybar use package manager/yay
+fastfetch use package manager
+hyprland use package manager
+rofi use package manager
+wlogout use yay
+kitty use package manager
+dolphin use package manager
 
-This will be almost same as the Maxi Sway Dotfiles i have not started this project yet but i will soon 
+
+dotfiles will be released soon
 
 _______________________________________________________________________________________________________________________________________
