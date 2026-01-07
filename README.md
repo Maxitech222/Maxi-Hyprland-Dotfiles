@@ -11,6 +11,8 @@ wlogout
 kitty 
 dolphin 
 
+to download wlogout do yay -S wlogout
+
 
 dotfiles will be released soon
 
